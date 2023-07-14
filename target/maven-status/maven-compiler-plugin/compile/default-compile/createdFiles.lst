@@ -1,0 +1,13 @@
+com\example777\entidades\Persona.class
+com\example777\enums\Rol.class
+com\example777\persistencia\PersonaDAO.class
+com\example777\EggJPA.class
+com\example777\entidades\Mascota.class
+com\example777\persistencia\DireccionDAO.class
+com\example777\Menu.class
+com\example777\persistencia\MascotaDAO.class
+com\example777\servicios\MascotaServicio.class
+com\example777\persistencia\DAO.class
+com\example777\entidades\Direccion.class
+com\example777\servicios\DireccionServicio.class
+com\example777\servicios\PersonaServicio.class
